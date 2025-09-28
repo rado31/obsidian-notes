@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "9f15a4176e2ec7c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "97161cf9785f21c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f085013cafbe058",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c58b40678e08192",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae6647910e6569f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbc8aa139c922f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b5b2660c87d5bf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96439f91482e21da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "d77b06db066d2ccb",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f29615246872fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e74ef8ffbc5789a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arch/package manager/Remove package with dependencies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Remove package with dependencies"
+            }
+          },
+          {
+            "id": "7d88b4caf46a5ca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arch/package manager/Remove package with dependencies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Remove package with dependencies"
+            }
+          },
+          {
+            "id": "59049060ef3c7de3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6cfde511a7969772",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arch/package manager/Remove package with dependencies.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Remove package with dependencies"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6f085013cafbe058",
+  "lastOpenFiles": [
+    "Arch/package manager/Remove package with dependencies.md",
+    "2025-09-28.md",
+    "Arch/package manager",
+    "Untitled",
+    "Arch",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
