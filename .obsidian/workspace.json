@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97161cf9785f21c6",
+        "id": "21d4b7ae02b7e335",
         "type": "tabs",
         "children": [
           {
-            "id": "6f085013cafbe058",
+            "id": "d7c2161c60bd8318",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,12 +166,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f085013cafbe058",
+  "active": "d7c2161c60bd8318",
   "lastOpenFiles": [
+    "Windows/Disable gesture.md",
+    "Windows",
+    "PostgreSQL/Primary key.md",
+    "PostgreSQL",
+    "Arch/fonts/Browser icons and katakana text.md",
+    "Arch/fonts/Installation.md",
+    "Arch/keyboard/Speed.md",
+    "Arch/keyboard",
+    "Arch/fonts",
+    "Arch/internet/Ethernet.md",
     "Arch/package manager/Remove package with dependencies.md",
+    "Arch/Untitled.md",
+    "Arch/internet",
+    "Arch/bootloader/Enable GRUB (instead of Windows's).md",
+    "Arch/bootloader",
     "2025-09-28.md",
     "Arch/package manager",
-    "Untitled",
     "Arch",
     "Untitled.base",
     "Untitled.canvas",
