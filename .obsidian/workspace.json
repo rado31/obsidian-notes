@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21d4b7ae02b7e335",
+        "id": "3470e374a8a8bda0",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c2161c60bd8318",
+            "id": "2a2a173c93204b56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,11 +166,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d7c2161c60bd8318",
+  "active": "2a2a173c93204b56",
   "lastOpenFiles": [
+    "Arch/browser/Default \"Show in folder\".md",
+    "Arch/browser",
+    "Arch/package manager/Remove package with dependencies.md",
+    "PostgreSQL/Primary key.md",
     "Windows/Disable gesture.md",
     "Windows",
-    "PostgreSQL/Primary key.md",
     "PostgreSQL",
     "Arch/fonts/Browser icons and katakana text.md",
     "Arch/fonts/Installation.md",
@@ -178,7 +181,6 @@
     "Arch/keyboard",
     "Arch/fonts",
     "Arch/internet/Ethernet.md",
-    "Arch/package manager/Remove package with dependencies.md",
     "Arch/Untitled.md",
     "Arch/internet",
     "Arch/bootloader/Enable GRUB (instead of Windows's).md",
