@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3470e374a8a8bda0",
+        "id": "9c8729f05ce4de0a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2a173c93204b56",
+            "id": "19d1185d7c4dd6e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arch/binary/Run at the background.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Run at the background"
             }
           }
         ]
@@ -166,8 +170,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a2a173c93204b56",
+  "active": "19d1185d7c4dd6e0",
   "lastOpenFiles": [
+    "Arch/binary/Run at the background.md",
+    "Arch/android/Mount.md",
+    "Arch/android",
+    "Arch/binary",
+    "Arch/Untitled.md",
     "Arch/browser/Default \"Show in folder\".md",
     "Arch/browser",
     "Arch/package manager/Remove package with dependencies.md",
@@ -181,14 +190,11 @@
     "Arch/keyboard",
     "Arch/fonts",
     "Arch/internet/Ethernet.md",
-    "Arch/Untitled.md",
     "Arch/internet",
     "Arch/bootloader/Enable GRUB (instead of Windows's).md",
     "Arch/bootloader",
     "2025-09-28.md",
     "Arch/package manager",
-    "Arch",
-    "Untitled.base",
     "Untitled.canvas",
     "Welcome.md"
   ]
