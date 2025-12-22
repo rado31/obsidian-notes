@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae67fa21638e2cf9",
+        "id": "f18d7e4f7855de46",
         "type": "tabs",
         "children": [
           {
-            "id": "f35982144ef1241d",
+            "id": "99d898b8b9d860c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,6 +168,8 @@
   },
   "active": "ccbc8aa139c922f0",
   "lastOpenFiles": [
+    "Etc/yt-dlp.md",
+    "Etc",
     "Git/Cancel rebase.md",
     "Systemd/Custom service.md",
     "Arch/binary/Run at the background.md",
@@ -191,7 +193,6 @@
     "Arch/keyboard",
     "Arch/fonts",
     "Arch/internet/Ethernet.md",
-    "Arch/internet",
     "2025-09-28.md",
     "Untitled.canvas",
     "Welcome.md"
