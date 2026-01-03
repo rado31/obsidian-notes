@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c17ad02ddd95b90e",
+        "id": "b25ed9dc9262827d",
         "type": "tabs",
         "children": [
           {
-            "id": "ed863263cb5635f5",
+            "id": "36b7f08545833bb5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed863263cb5635f5",
+  "active": "ccbc8aa139c922f0",
   "lastOpenFiles": [
+    "Arch/thunar/notes.md",
+    "Arch/thunar",
+    "Solid.md",
+    "Windows/Disable gesture.md",
     "CachyOS/Bootloader (GRUB).md",
     "CachyOS",
     "Arch/bootloader/Enable GRUB (instead of Windows's).md",
@@ -180,14 +184,12 @@
     "Systemd/Custom service.md",
     "Arch/binary/Run at the background.md",
     "Systemd",
-    "Arch/Untitled",
     "Arch/android",
     "Arch/binary",
     "Arch/Untitled.md",
     "Arch/browser/Default \"Show in folder\".md",
     "Arch/browser",
     "PostgreSQL/Primary key.md",
-    "Windows/Disable gesture.md",
     "Windows",
     "PostgreSQL",
     "Arch/fonts/Browser icons and katakana text.md",
