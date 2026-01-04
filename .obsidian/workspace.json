@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b25ed9dc9262827d",
+        "id": "766d87822880e02f",
         "type": "tabs",
         "children": [
           {
-            "id": "36b7f08545833bb5",
+            "id": "228d3e114f661807",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,6 +168,9 @@
   },
   "active": "ccbc8aa139c922f0",
   "lastOpenFiles": [
+    "Arch/night_shift/wlsunset.md",
+    "Arch/night_shift",
+    "Arch/binary/Run at the background.md",
     "Arch/thunar/notes.md",
     "Arch/thunar",
     "Solid.md",
@@ -182,7 +185,6 @@
     "Etc",
     "Git/Cancel rebase.md",
     "Systemd/Custom service.md",
-    "Arch/binary/Run at the background.md",
     "Systemd",
     "Arch/android",
     "Arch/binary",
@@ -195,7 +197,6 @@
     "Arch/fonts/Browser icons and katakana text.md",
     "Arch/fonts/Installation.md",
     "Arch/keyboard/Speed.md",
-    "Arch/keyboard",
     "Arch/internet/Ethernet.md",
     "2025-09-28.md",
     "Untitled.canvas",
