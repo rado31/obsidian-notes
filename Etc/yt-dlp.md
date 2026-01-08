@@ -1,8 +1,10 @@
 
+> **LTS: fixed problem with cookies**
+
 ## Download video
 
 ```bash
-yt-dlp -f "bv*[ext=mp4][height<=1080]+ba[ext=m4a]/b[ext=mp4]" --merge-output-format mp4 URL
+yt-dlp -f "bv*[ext=mp4][height<=1080]+ba[ext=m4a]/b[ext=mp4]" --merge-output-format mp4 --cookies-from-browser chrome URL
 ```
 
 ### 🔍 What this does
@@ -18,7 +20,7 @@ yt-dlp -f "bv*[ext=mp4][height<=1080]+ba[ext=m4a]/b[ext=mp4]" --merge-output-for
 ## Download audio
 
 ```bash
-yt-dlp -f "ba/best" -x --audio-format mp3 --audio-quality 0 URL
+yt-dlp -f "ba/best" -x --audio-format mp3 --audio-quality 0 --cookies-from-browser chrome URL
 ```
 
 ### 🔍 What this means

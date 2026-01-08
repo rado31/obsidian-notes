@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "766d87822880e02f",
+        "id": "c4e30dd8d0b84a72",
         "type": "tabs",
         "children": [
           {
-            "id": "228d3e114f661807",
+            "id": "95c378a603591374",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ccbc8aa139c922f0",
+  "active": "95c378a603591374",
   "lastOpenFiles": [
+    "Etc/yt-dlp.md",
     "Arch/night_shift/wlsunset.md",
     "Arch/night_shift",
     "Arch/binary/Run at the background.md",
@@ -181,7 +182,6 @@
     "Arch/android/Mount.md",
     "Arch/browser/Default - Show in folder.md",
     "Arch/package manager/Remove package with dependencies.md",
-    "Etc/yt-dlp.md",
     "Etc",
     "Git/Cancel rebase.md",
     "Systemd/Custom service.md",
