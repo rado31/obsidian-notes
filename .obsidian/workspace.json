@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e30dd8d0b84a72",
+        "id": "a33f4ac9d676576f",
         "type": "tabs",
         "children": [
           {
-            "id": "95c378a603591374",
+            "id": "bf2b02827f77e695",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "95c378a603591374",
+  "active": "ccbc8aa139c922f0",
   "lastOpenFiles": [
+    "Etc/ed25519.md",
+    "Solana/1-Introduction/1-1 Introduction.md",
+    "Solana/1-Introduction/1-5 Conclusion.md",
+    "Solana/1-Introduction/1-4 Introduction to Solana.md",
+    "Solana/1-Introduction/1-3 Blockchain evolution.md",
+    "Solana/1-Introduction/1-2 Blockchain fundamentals.md",
+    "Solana/1.1.md",
+    "Solana/7-Pinocchio-AMM",
+    "Solana/6-Token-2022-program",
+    "Solana/5-Pinocchio-Escrow",
+    "Solana/4-Testing-with-Mollusk",
+    "Solana/3-Pinocchio-Vault",
+    "Solana/2-Pinocchio",
+    "Solana/1-Introduction",
+    "Solana",
     "Etc/yt-dlp.md",
     "Arch/night_shift/wlsunset.md",
     "Arch/night_shift",
@@ -177,29 +192,18 @@
     "Solid.md",
     "Windows/Disable gesture.md",
     "CachyOS/Bootloader (GRUB).md",
-    "CachyOS",
     "Arch/bootloader/Enable GRUB (instead of Windows's).md",
     "Arch/android/Mount.md",
     "Arch/browser/Default - Show in folder.md",
     "Arch/package manager/Remove package with dependencies.md",
-    "Etc",
     "Git/Cancel rebase.md",
     "Systemd/Custom service.md",
-    "Systemd",
-    "Arch/android",
-    "Arch/binary",
     "Arch/Untitled.md",
     "Arch/browser/Default \"Show in folder\".md",
-    "Arch/browser",
     "PostgreSQL/Primary key.md",
-    "Windows",
-    "PostgreSQL",
     "Arch/fonts/Browser icons and katakana text.md",
     "Arch/fonts/Installation.md",
     "Arch/keyboard/Speed.md",
-    "Arch/internet/Ethernet.md",
-    "2025-09-28.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
